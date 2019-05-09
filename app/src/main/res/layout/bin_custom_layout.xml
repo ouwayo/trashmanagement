@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/locationTag"
+        android:text="Bin Located At:"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/binLocation"
+        android:layout_marginVertical="20dp"
+        android:text="Akorno"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/binRemainingCapacity"
+        android:layout_marginVertical="20dp"
+        android:layout_marginHorizontal="100dp"
+        android:textColor="@color/green"
+        android:text="20"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/remainingTag"
+        android:layout_marginVertical="20dp"
+        android:layout_marginHorizontal="150dp"
+        android:text="space remaining!"/>
+
+</RelativeLayout>

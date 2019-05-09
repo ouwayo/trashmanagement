@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "101274019990",
+    "firebase_url": "https://ash-clean.firebaseio.com",
+    "project_id": "ash-clean",
+    "storage_bucket": "ash-clean.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101274019990:android:adae71eef615a91c",
+        "android_client_info": {
+          "package_name": "com.example.ashclean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101274019990-f6btpuh6binqfcp672pg84n0rd41vkhs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ashclean",
+            "certificate_hash": "3225bed3cff7c7f5af523d956e09cbc6b04c673f"
+          }
+        },
+        {
+          "client_id": "101274019990-810e0vh3ijjiv8u2e4fqjulsq4m0k6lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwhcpLyMzBGaPFRRT-tLZ7nI80PkyvoUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101274019990-810e0vh3ijjiv8u2e4fqjulsq4m0k6lt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
